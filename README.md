@@ -326,3 +326,6 @@ Here are the few rules we'd like you to respect if you do so:
 * Regarding licensing:
   * You must be the original author of the code you suggest.
   * You must give the copyright to "the AsyncHttpClient Project"
+  
+Archibus:
+Inreased request, read timeouts 60 -> 180 to avoid timeouts during Selenium tests.
